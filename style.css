@@ -52,3 +52,26 @@ body {
   cursor: pointer;
   border-radius: 3px;
 }
+
+a:link {
+  padding: 15px 32px;
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  padding: 15px 32px;
+  color: yellow;
+}
+
+/* mouse over link */
+a:hover {
+  padding: 15px 32px;
+  color: rgb(54, 54, 54);
+}
+
+/* selected link */
+a:active {
+  padding: 15px 32px;
+  color: blue;
+}
