@@ -1,8 +1,4 @@
-/**
- * Author: Rishit Patel
- * Date: Nov 27, 2019
- * Description: Hi-Low Game
- */
+
 
 var theNum = 0;
 var counter = 0;
